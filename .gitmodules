@@ -1,6 +1,4 @@
-[submodule "Bebop"]
-	path = Bebop
-	url = https://github.com/bebop
 [submodule "luffy-diag"]
 	path = luffy-diag
 	url = https://github.com/pega-diags/luffy-diag
+	branch = stable
