@@ -1,0 +1,3 @@
+[submodule "Bebop"]
+	path = Bebop
+	url = https://github.com/bebop
