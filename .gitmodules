@@ -1,0 +1,3 @@
+[submodule "luffy-diag"]
+    path = luffy
+    url = https://github.com/pega-diags/luffy-diag
