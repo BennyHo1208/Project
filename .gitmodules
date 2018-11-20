@@ -1,4 +1,4 @@
 [submodule "luffy-diag"]
-	path = luffy-diag
+	path = UI
 	url = https://github.com/pega-diags/luffy-diag
 	branch = master
